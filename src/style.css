@@ -1,0 +1,32 @@
+html {
+    font-family: "Poppins", sans-serif;
+}
+
+
+.header {
+    background-color: #3000BA;
+    height: 150px;
+}
+
+.header .links ul {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 115px;
+    font-size: 20px;
+}
+
+.hero {
+    background-color: #DC062C;
+}
+
+.footer {
+    background-color: #3000BA;
+    height: 185px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer img {
+    width: 198px;
+    height: 100px;
+}
